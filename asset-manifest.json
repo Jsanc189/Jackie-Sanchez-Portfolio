@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jackie-Sanchez-Portfolio/static/css/main.05ae3bea.css",
+    "main.js": "/Jackie-Sanchez-Portfolio/static/js/main.6ebff21f.js",
+    "static/js/453.bb95172d.chunk.js": "/Jackie-Sanchez-Portfolio/static/js/453.bb95172d.chunk.js",
+    "index.html": "/Jackie-Sanchez-Portfolio/index.html",
+    "main.05ae3bea.css.map": "/Jackie-Sanchez-Portfolio/static/css/main.05ae3bea.css.map",
+    "main.6ebff21f.js.map": "/Jackie-Sanchez-Portfolio/static/js/main.6ebff21f.js.map",
+    "453.bb95172d.chunk.js.map": "/Jackie-Sanchez-Portfolio/static/js/453.bb95172d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ae3bea.css",
+    "static/js/main.6ebff21f.js"
+  ]
+}
