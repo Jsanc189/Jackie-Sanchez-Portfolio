@@ -35,6 +35,12 @@ function App() {
       description:'Lead developer on a team project of a farming game prototype that a user can navigate and plant/harvest crops. This game utilizes the Phaser 3 game engine, JavaScript and HTML for game development and is also installable app.',
       image: 'img/PlantHarvest.jpg',
       link: 'https://jsanc189.github.io/121-Final-project/'
+    },
+    {
+      title: 'Fantasy Weapon Generator',
+      description: 'A solo build web application that generates fantasy weapons using a grammar template system.  The user simply clicks on the button "Make a New Weapon" to generate a new weapon.  The weapon name, description, and stats are all generated for the user."',
+      image: 'img/FantasyWeaponGenerator.jpg',
+      link: 'https://jsanc189.github.io/cmpm147/experiment1/index.html'
     }
   ]
 
