@@ -41,6 +41,11 @@ function App() {
       description: 'A solo build web application that generates fantasy weapons using a grammar template system.  The user simply clicks on the button "Make a New Weapon" to generate a new weapon.  The weapon name, description, and stats are all generated for the user."',
       image: 'img/FantasyWeaponGenerator.jpg',
       link: 'https://jsanc189.github.io/cmpm147/experiment1/index.html'
+    },
+    {title:'PetPrep Figma Prototype',
+     description: 'A team project of a pet care mobile application prototype.  I was responsible for the UI Guide and video education section flow of the app.  The prototype was created using Figma.',
+     image: 'img/PetPrepFigma.jpg',
+     link: 'https://www.figma.com/proto/887c64whqZM9tEUoOwMngf/Week-9---Final-Prototype?node-id=286-6891&p=f&t=UZNKSCohgQPaKMiX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=286%3A6891&show-proto-sidebar=1'
     }
   ]
 
