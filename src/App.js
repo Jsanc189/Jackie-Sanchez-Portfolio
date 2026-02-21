@@ -20,6 +20,11 @@ function App() {
 
   const projects = [
     {
+      title: 'Wizard Farm Game (work in progress)',
+      description: 'A solo build prototype for a farming game where the player is a wizard who uses spells to plant and harvest crops.This game utilizes the Phaser 3 game engine, JavaScript and HTML for game development.',
+      image:'img/WizardGame.jpg',
+      link: 'https://jsanc189.github.io/Wizard-game/'
+    },{
       title: 'Super Mega Blasteroids 9',
       description: 'A solo build prototype for a space shooter game inspired by the show Foster\'s Home for Imaginary Friends. This game utilizes the Phaser 3 game engine, JavaScript and HTML for game development.',
       image: 'img/SuperMegaBlasteroids9.jpg',
