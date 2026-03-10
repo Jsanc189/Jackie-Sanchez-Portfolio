@@ -51,6 +51,12 @@ function App() {
      description: 'A team project of a pet care mobile application prototype.  I was responsible for the UI Guide and video education section flow of the app.  The prototype was created using Figma.',
      image: 'img/PetPrepFigma.jpg',
      link: 'https://www.figma.com/proto/887c64whqZM9tEUoOwMngf/Week-9---Final-Prototype?node-id=286-6891&p=f&t=UZNKSCohgQPaKMiX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=286%3A6891&show-proto-sidebar=1'
+    },
+    {
+      title: 'Game Explorer',
+      description: 'A solo built web application that allows users to search for video game titles.  The application utilizes TypeScript, React, and the RAWG Video Games Database API to fetch game data.',
+      image: 'img/GameExplorerPic.jpg',
+      link: 'https://jsanc189.github.io/Game-Database-Explorer/'
     }
   ]
 
