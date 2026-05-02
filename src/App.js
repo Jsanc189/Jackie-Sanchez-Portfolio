@@ -20,6 +20,12 @@ function App() {
 
   const projects = [
     {
+      title: 'Mind Palace: Running Out of Time',
+      description: 'A team project of a 2D top-down mystery game where the player is a lawyer who must piece together evidence to prove innocence or guilt. This game utilizes the Phaser 3 game engine, JavaScript and HTML for game development.',
+      image: 'img/MindPalace.jpg',
+      link: 'https://jsanc189.github.io/time-jam/'
+    },
+     {
       title: 'Wizard Farm Game (work in progress)',
       description: 'A solo build prototype for a farming game where the player is a wizard who uses spells to plant and harvest crops.This game utilizes the Phaser 3 game engine, JavaScript and HTML for game development.',
       image:'img/WizardGame.jpg',
